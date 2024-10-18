@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller-Programacion", "Taller-Programacion\Taller-Programacion.csproj", "{6FF9DB33-1463-4458-91A6-AFC32A545E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taller-Programacion", "Taller-Programacion\Taller-Programacion.csproj", "{6FF9DB33-1463-4458-91A6-AFC32A545E11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,6 +22,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {44B84E36-22EF-4B16-8076-6D0827A91F0F}
+		SolutionGuid = {0075EC73-CA73-470E-8CCA-81987360B1EA}
 	EndGlobalSection
 EndGlobal
