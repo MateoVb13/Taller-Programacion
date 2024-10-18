@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Taller_Programación.Maestro"
+             Title="Maestro">
+    <VerticalStackLayout>
+        <Button 
+         Text="FetchPage"
+         VerticalOptions="Center" 
+         HorizontalOptions="Center"
+         Clicked="OnNavigateToFetchPage" 
+         Margin="0,20"/>
+
+        <Button 
+          Text="Ir a PushPage"
+          VerticalOptions="Center" 
+          HorizontalOptions="Center"
+         Clicked="OnNavigateToPushPage"
+         Margin="0,20"/>
+
+        <Button 
+          Text="Ir a PullPage"
+          VerticalOptions="Center" 
+          HorizontalOptions="Center"
+         Clicked="OnNavigateToPullPage"
+          Margin="0,20"/>
+
+        <Button 
+           Text="Ir a CommitPage"
+           VerticalOptions="Center" 
+           HorizontalOptions="Center"
+           Clicked="OnNavigateToCommitPage"
+           Margin="0,20"/>
+
+    </VerticalStackLayout>
+</ContentPage>
