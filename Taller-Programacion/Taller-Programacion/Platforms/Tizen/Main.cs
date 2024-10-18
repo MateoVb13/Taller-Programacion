@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 using System;
+=======
+using System;
+using Microsoft.Maui;
+using Microsoft.Maui.Hosting;
+>>>>>>> 2d57958a9cee842defcf6a5622ff175fe734f9db
 
 namespace Taller_Programacion
 {
